@@ -1,0 +1,3 @@
+# expOps
+Html5 semantic css3 transitions sass git....
+Repo for learing self directed learning of some advanced features of css and html5 and sass, also gain experience in Vcs.
